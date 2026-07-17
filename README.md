@@ -138,7 +138,7 @@ retail-vendor-inventory-analytics/
 
 <p align="center">
 
-<a href="[www.linkedin.com/in/virender-beniwal47](https://www.linkedin.com/in/virender-beniwal47/)">
+<a href="https://www.linkedin.com/in/virender-beniwal47">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
